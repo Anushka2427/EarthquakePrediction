@@ -53,6 +53,6 @@ EarthquakePrediction/
 
 👩‍💻 Contributor
  https://github.com/Anushka2427 
-
+ https://github.com/tishatejwani
 
 
